@@ -1,0 +1,19 @@
+[user]
+	name = Louis Gill
+	email = louisgill5@gmail.com
+[core]
+	autocrlf = input
+[alias]
+	hist = log --all --graph --decorate --oneline
+[merge]
+	tool = bc
+[mergetool "bc"]
+	path = C:/Program Files/Beyond Compare 4/BComp.exe
+[mergetool]
+	prompt = false
+[diff]
+	tool = bc
+[difftool "bc"]
+	path = C:/Program Files/Beyond Compare 4/BComp.exe
+[difftool]
+	prompt = false
